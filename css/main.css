@@ -40,11 +40,11 @@ code {
 }
 
 button, .button {
-  background-color: #007EA8;
+  background-color: #127EA8;
 }
 
 button:hover, button:focus, .button:hover, .button:focus {
-  background-color: #006385;
+  background-color: #346385;
 }
 
 a {
@@ -210,7 +210,7 @@ footer h6 a {
   padding-top: 10px;
   margin-bottom: 20px;
   padding-bottom: 10px;
-  border-bottom: 1px solid #D9D8D7;
+  border-bottom: 1px solid lightblue;
 }
 
 #index-teaser a {
@@ -404,8 +404,8 @@ ul.doc-breadcrumbs-nav .here-note {
 .doc-content h4:before { 
   display: block; 
   content: " "; 
-  margin-top: -15px; 
-  height: 15px; 
+  margin-top: -150px; 
+  height: 150px; 
   visibility: hidden;
 }
 
